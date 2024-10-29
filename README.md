@@ -2,22 +2,18 @@
 
 ## Task 1 - Automate commonly run processes
 
-User Prompt and Logging Script
+Script 1: User Prompt and Logging Script
 
-Description:
 This script provides users with a menu-driven interface to perform various system tasks and log information efficiently. It includes options for:
-
 - Daily Log: Lists and appends entries to log files.
 - Files: Lists and appends information for all files in the specified directory.
 - CPU/Memory Usage: Displays real-time CPU and memory usage metrics.
 - Processes: Shows currently active processes in a graphical interface.
 
 
-SQL Database Management Script
+Script 2: SQL Database Management Script
 
-Description:
 This script automates SQL Server database tasks, including:
-
 - Database and Table Creation: Creates a new database and table if they don’t already exist.
 - Data Import: Reads from a CSV file and inserts the data into the SQL table.
 - Data Export: Retrieves data from the table and writes it to an output file for validation.
@@ -27,9 +23,9 @@ This script automates SQL Server database tasks, including:
 
 ## Task 2 - Automate AD and SQL Server tasks
 
-Active Directory (AD) Tasks
-This script accomplishes the following:
+Script 1: Active Directory (AD) Tasks
 
+This script accomplishes the following:
 - Checks for and imports the ActiveDirectory module.
 - Defines and checks for an Organizational Unit (OU) called Finance.
 - Deletes and recreates the OU as needed.
@@ -37,8 +33,8 @@ This script accomplishes the following:
 - Generates an output file with details of the users in the Finance OU.
 
 Script 2: SQL Server Tasks
-This script includes:
 
+This script includes:
 - Checking for and importing the SqlServer module.
 - Defining the SQL Server instance and database name.
 - Checking for the existence of a database (ClientDB), dropping it if present, and then recreating it.
