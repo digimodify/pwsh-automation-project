@@ -1,10 +1,3 @@
-<#
-Name: Christian Etienne 
-ID: 011755153
-Date: 05/16/2024
-D411 Scripting and Utomation Applications Task 1
-#>
-
 Function Get-UserInput {
     <#
     .SYNOPSIS 

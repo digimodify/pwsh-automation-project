@@ -1,10 +1,3 @@
-<#
-Christian Etienne
-011715153
-05/21/2024
-D411 Task 2
-#>
-
 Try 
 {
     Write-Host -ForegroundColor Cyan "[AD]: Starting Active Directory Tasks..."
